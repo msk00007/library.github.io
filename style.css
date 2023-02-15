@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(20, 162, 162);
+   
+    
+}
+.upper{
+    background-image: url("responsive_big_webp_JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 1650px 450px;
+    backdrop-filter: sepia(10px);
+    height: 300px;
+}
+ul.login{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: rgb(86, 163, 240);
+    border: 2px solid darkred;
+    background-color: azure;
+}
+a{
+    color: rgb(15, 164, 250);
+}
+a.back{
+    color: black;
+    size: 15px;
+    border: 2px solid blue;
+    background-color: rgb(214, 219, 222);
+}
+h1{
+    text-align: center;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
